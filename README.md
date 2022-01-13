@@ -8,7 +8,7 @@ A Tes3MP server side script to enable a customizable "hotbar" in the chatwindow 
 
 
 ## INSTALLATION:
-1) Save this to your `tes3mp-server\server\scripts\custom` folder as `HecticHotBar.lua`.
+1) Save the script `HecticHotBar.lua` to your `tes3mp-server\server\scripts\custom` folder as `HecticHotBar.lua`.
 2) Open `customScripts.lua` in a text editor such as notepad. It can be found in your `tes3mp-server\server\scripts` folder.
 3) On a new line, add the following: `require("custom.HecticHotBar")`
 4) Make sure there are no dashes infront of it. (Dashes infront will disable/comment it out.)
