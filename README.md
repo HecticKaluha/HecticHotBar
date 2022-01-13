@@ -35,7 +35,7 @@ If you don't add support for these items, the script will still work and will ju
 
 ## FEATURES:
 - A clean looking textbased hotbar based on the players current custom quickkeys (F1 quickkeys menu)
-- The hotbar shows the name of in-game (base armor, books, clothing, enchanted items, miscellaneous items, potions. spells and weapons
+- The hotbar shows the name of in-game items (base armor, books, clothing, enchanted items, miscellaneous items, potions. spells and weapons)
 - The hotbar shows the custom names given to items (from enchanting or alchemy for example) like armor, books, clothing, enchanted items, miscellaneous items, potions. spells and weapons
 - The hotbar takes possible empty quickkey slots into account and shows that these slots are empty in the hotbar too.
 - The hotbar autoupdates when you change quickkeys. No need to retype the command. This way you always have an up to date Hotbar for those clutch encounters or roleplay scenarios.
